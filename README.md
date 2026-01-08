@@ -85,11 +85,3 @@ Response:
   "id": 1,
   "name": "iPhone"
 }
-
-Notes
-
-The project follows REST and MVC architectural principles
-
-No database is used (in-memory storage only)
-
-The structure and implementation fully match Task 2 requirements from the PDF
